@@ -1,6 +1,6 @@
 import './categories.css'
 import { useContext } from 'react'
-import { CatalogContext } from '@/context/catalogContext'
+import { CatalogContext } from '@/context/CatalogContext'
 
 
 export const Categories = () => {
